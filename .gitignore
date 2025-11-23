@@ -1,3 +1,10 @@
+node_modules
+.next
+.vercel
+.env
+*.log
+dist
+coverage
 # Comprehensive .gitignore template for AI-generated projects
 # Covers most common languages, frameworks, and tools
 
